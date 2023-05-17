@@ -1,0 +1,12 @@
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\bin\Debug\net6.0\ValidParentheses.deps.json
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\bin\Debug\net6.0\ValidParentheses.dll
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\bin\Debug\net6.0\ValidParentheses.pdb
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.AssemblyReference.cache
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ValidParentheses.dll
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\refint\ValidParentheses.dll
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ValidParentheses.pdb
+C:\Users\Alex.Gonzales\Documents\Interview-17-05-23\ValidParentheses\obj\Debug\net6.0\ref\ValidParentheses.dll
